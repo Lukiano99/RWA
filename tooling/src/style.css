@@ -1,0 +1,34 @@
+
+
+h1
+{
+color:black;
+font-family:'Courier New', Courier, monospace;
+text-align: center;
+}
+.l
+{
+    width: 100%;
+    
+    margin:0.2px;
+    
+}
+.kont, .mojDiv, .ispis
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+    
+}
+.ispis
+{
+    text-align: center;
+    margin:0.2px;
+}
+.kont
+{
+    align-items: center;
+}
+
+
